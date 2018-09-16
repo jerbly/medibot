@@ -1,0 +1,4 @@
+slackclient
+numpy
+scipy
+sklearn
